@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "sample project",
+			"path": "sample project"
+		},
+		{
+			"name": "practice session",
+			"path": "sample project/practice session"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sample project"
+	}
+}
